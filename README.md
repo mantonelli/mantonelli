@@ -4,9 +4,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantonelli)](https://github.com/mantonelli)
 
+![https://img.shields.io/badge/BTC-bc1qt68v0vxuz85jvt6qrhhm3x8hz7hj3axy5dr6xz-blue](https://img.shields.io/badge/BTC-bc1qt68v0vxuz85jvt6qrhhm3x8hz7hj3axy5dr6xz-blue)
+
 <!--
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantonelli&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantonelli&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 **mantonelli/mantonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
